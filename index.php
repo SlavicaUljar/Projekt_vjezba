@@ -7,7 +7,8 @@
 
 <body>
 <php
-echo "Hello world!";
+echo "Jer ja volim rakiju";
+
 ?>
 </body>
 </html>
